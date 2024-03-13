@@ -63,11 +63,3 @@
 </div>
 
 ###
-
-<h3 align="left">🔥Involvement Plot</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/adhikari-anil/adhikari-anil/output/snake.svg" alt="Snake animation" />
-
-###
