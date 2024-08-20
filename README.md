@@ -1,11 +1,21 @@
+<div align="center">
+  <img height="200" src="https://images.pexels.com/photos/4065876/pexels-photo-4065876.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm Anil Adhikari</h1>
 <h3 align="center">A passionate Learner from Nepal</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adhikari-anil&label=Profile%20views&color=0e75b6&style=flat" alt="adhikari-anil" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adhikari-anil" alt="adhikari-anil" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aniladh25412744" target="blank"><img src="https://img.shields.io/twitter/follow/aniladh25412744?logo=twitter&style=for-the-badge" alt="aniladh25412744" /></a> </p>
+
+- 🔭 I’m currently studying Bachelor in CSIT in Nepal. [Online Drawing Tool](https://drawonline.vercel.app/)
+
+- 👯 I’m looking to collaborate on any projects. [Weather App](https://display-weather.vercel.app/)
+
+- 🤝 I’m looking for help with [DemoApp](https://myfriendgpt.vercel.app/)
+
+- ⚡ Fun fact **I am an underground gamer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
