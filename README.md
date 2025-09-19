@@ -2,7 +2,7 @@
   <img height="200" src="https://images.pexels.com/photos/4065876/pexels-photo-4065876.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"  />
 </div>
 
-<h1 align="center">Hi 👋, I'm Anil Adhikari</h1>
+<h1 align="center">Hi 👋, I'm Anil Adhikari    <a href="https://mytechdetails.vercel.app/"> ( PORTFOLIO ) </a></h1>
 <h3 align="center">A passionate Learner from Nepal</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adhikari-anil" alt="adhikari-anil" /></a> </p>
